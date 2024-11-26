@@ -56,6 +56,16 @@ receive the intelligence work products going forward. (For the sake of clarity, 
 
 Further, while Gary Ruddell and Chris Cochran reflected an intelligence lifecycle model that range in a left-to-right comparison of not explicitly stating specific steps in their respective models, it is extremely likely that the steps not written or spoken explicitly – thus shortening their models from 6 steps in listed format – still exist within their respective, published models.
 
+Having investigated each sources’ work further, it is clear that each model agrees on the following:
+
++ Intelligence requirements begin with the client/stakeholder.
+
++ Collection is essential, as is processing data into information for meaningful analysis.
+
++ Someone will ultimately receive the intelligence output – and it is hoped that the product will be of significant value, help, and maximum use to those receiving said product.
+
++ In each model returning to a requirement stage, it is imperative that the CTI professional proactively discover the outcomes of their efforts.
+
 ## Conclusion:
 
 
