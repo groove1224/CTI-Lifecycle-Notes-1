@@ -66,6 +66,25 @@ Having investigated each sources’ work further, it is clear that each model ag
 
 + In each model returning to a requirement stage, it is imperative that the CTI professional proactively discover the outcomes of their efforts.
 
+### (c) Impressions
+
+I was impressed by the baked-in implication – not stated in the section above merely for the sake of allowing it to be the kickoff point of this section – that it is on the onus of the
+CTI practitioner to actively pursue the following:
+
++ Learn of the effectiveness of the work produced
+
++ Seek out feedback, including confirmation of whether or not the efforts made a difference, whether the needs of the stakeholder/audience of the CTI work product may have adjusted, and even whether to modify the delivery of the work product (such as electronic delivery, deliver-by-hand, scheduled in-person or video conference presentation, etc.).
+
++ Optimize the sources of collection for:
+
+  + (i.) scope,
+  + (ii.) reliability,
+  + (iii.) cost,
+  + (iv.) value dreived, and even...
+  + (v.) whether a source ought to be let go of
+
++ Improve in their ability to deliver the intelligence in a helpful way – which could range from telling a story to relating the information to that which is of interest to the intended audience (even the stakeholder).
+
 ## Conclusion:
 
 
