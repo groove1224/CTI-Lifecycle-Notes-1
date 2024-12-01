@@ -7,6 +7,8 @@ Sources:<br />
 
 # Reconciling 3 Models of the Cyber Threat Intelligence Lifecycle
 
+<h1>Reconciling 3 Models of the Cyber Threat Intelligence Lifecycle</h1>
+
 Bottom Line, Up Front:
 
 (1) I need to get better at drawing on tablets,
