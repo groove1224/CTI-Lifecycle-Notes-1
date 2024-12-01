@@ -7,7 +7,6 @@ Sources:<br />
 
 # Reconciling 3 Models of the Cyber Threat Intelligence Lifecycle
 
-<h1>Reconciling 3 Models of the Cyber Threat Intelligence Lifecycle</h1>
 
 Bottom Line, Up Front:
 
