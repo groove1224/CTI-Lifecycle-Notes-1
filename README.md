@@ -45,6 +45,9 @@ On review, three aspects are of prima facia interest:
 Let’s compare –
 
 ![image](https://github.com/user-attachments/assets/2544521e-0027-4ca4-aae7-caa89588b7a6)
+<br />
+<br />
+![campfireclipart-removebg-preview](https://github.com/user-attachments/assets/e2feaca4-a476-4831-8130-b31fce301677)
 
 ### (b) Implications
 
