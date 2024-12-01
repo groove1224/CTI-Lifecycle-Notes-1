@@ -1,3 +1,7 @@
+Click this is you want to be awesome in Cybersecurity: <br />
+[CLICK HERE](https://www.google.com)! <br />
+<br />
+
 Topic: CTI Lifecycle Notes 1 <br />
 Subject: Comparing three (3) interpretations of the lifecycle of intelligence<br />
 Sources:<br />
